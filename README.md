@@ -1,41 +1,43 @@
 # 📊 E-Commerce Sales Analysis & Interactive Dashboard (Excel)
 
-This project focuses on analyzing e-commerce sales data and building an interactive business dashboard using Microsoft Excel. The goal was to transform raw transactional data into meaningful insights that support strategic decision-making.
+This project demonstrates end-to-end data analysis using Microsoft Excel to transform raw e-commerce transaction data into actionable business insights through an interactive dashboard.
 
-**🔹 Project Objectives**
+**🚀 Project Overview**
 
-* Analyze sales performance across regions, categories, and customer segments.
+Analyzed sales data containing 8,000+ records to evaluate revenue performance, customer segmentation, and regional sales distribution. Designed a dynamic dashboard enabling business users to explore KPIs and trends interactively.
 
-* Identify revenue trends and high-performing products.
+**🔧 Key Responsibilities**
 
-* Create an interactive dashboard for non-technical users.
+* Data cleaning and preprocessing using Excel functions
 
-**🔹 Dataset**
+* Data modeling using Pivot Tables
 
-* 8,000+ transaction records
+* KPI development and performance tracking
 
-* Fields include sales date, region, product category, payment mode, quantity, and revenue.
+* Dashboard design with slicers for dynamic filtering
 
-**🔹 Key Features**
+* Visualization of sales trends and category performance
 
-* Data cleaning and structuring in Excel
+**📈 Business Insights Generated**
 
-* Pivot Tables for aggregation and KPI analysis
+* Regional revenue comparison
 
-* Interactive slicers for dynamic filtering
+* Product category performance analysis
 
-* Visual dashboard with charts and performance metrics
+* Customer segment contribution to total sales
 
-**🔹 Tools Used**
+* Sales trend identification for strategic planning
+
+🛠 Tools & Techniques
 
 * Microsoft Excel
 
 * Pivot Tables & Pivot Charts
 
-* Slicers & Dashboard Design
+Data Cleaning & Transformation
 
-* Data Analysis Techniques
+Interactive Dashboard Design
 
-**🔹 Outcomes**
+✅ Outcome
 
-The dashboard provides a clear overview of business performance, helping stakeholders quickly understand sales trends, regional performance, and customer behavior.
+Delivered a scalable Excel dashboard that improves reporting efficiency and enables faster business decision-making.
